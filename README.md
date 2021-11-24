@@ -1,3 +1,3 @@
 # mathematical_formulas_using_python
-area of cirle using python
-more coming...
+just trying to have some fun,
+hungry learner :)
