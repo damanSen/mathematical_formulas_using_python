@@ -7,5 +7,5 @@ def compound_interest(p, t ,r):
 
     print(f"The compounded interest is {ci}")
     return ci
-
+# test  & input
 compound_interest(2500, 10, 5)
